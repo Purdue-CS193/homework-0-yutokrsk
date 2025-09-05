@@ -1,4 +1,6 @@
 # Yuto Kuraseko's First C193 Homework
+- I like CS
+- The TAs and professors are nice
 
 ## Welcome to GitHub Pages
 
